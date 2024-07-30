@@ -1,5 +1,7 @@
-Four models:
-FAME
-IBOSS
-SIS
-LASSO
+# Six models:
+## FAME
+## IBOSS
+## IBOSS_LASSO
+## SIS
+## SIS_LASSO
+## LASSO
